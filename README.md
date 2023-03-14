@@ -4,7 +4,9 @@ BOF is script for automation bufferOverFlow attack on sync breeze (SyncBreeze PO
 
 # Download 
 $   git clone https://github.com/kareemBambo/Boof.git
+
 $   cd boof
+
 $   python exploit.py -h
 
 # using 
