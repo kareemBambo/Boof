@@ -14,6 +14,7 @@ $  python exploit.py "IP address" "Port"
 
   for help use --help or -h.
 
+Hint: script use payload from msfvenom, port listen on private network 
 
 # Reference
 - CVE-2017-14980
