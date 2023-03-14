@@ -8,6 +8,6 @@ $   cd boof
 $   python exploit.py -h
 
 # using 
-$  python exploit.py <IP address> <Port>
+$  python exploit.py "IP address" "Port"
 
 for help use --help or -h.
