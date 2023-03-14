@@ -10,4 +10,10 @@ $   python exploit.py -h
 # using 
 $  python exploit.py "IP address" "Port"
 
-for help use --help or -h.
+  for help use --help or -h.
+
+
+# Reference
+- CVE-2017-14980
+
+- Ahmed Atia(Lambo) 
