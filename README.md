@@ -19,4 +19,4 @@ Hint: script use payload from msfvenom, port listen on private network
 # Reference
 - CVE-2017-14980
 
-- Ahmed Atia(Lambo) 
+- Ahmed Atia(Limbo) 
