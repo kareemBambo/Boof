@@ -1,5 +1,5 @@
 # Boof
-BOF is script for automation bufferOverFlow attack on sync breeze
+BOF is script for automation bufferOverFlow attack on sync breeze (SyncBreeze POST request overflow + RCE)
 
 
 # Download 
